@@ -3,7 +3,7 @@
 # Hello, I'm Roman Yatsevyuk 👋
 ### Mobile Developer
 
-<img src="https://skillicons.dev/icons?i=android,flutter,kotlin,java,dart,sqlite," />
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,java,dart,sqlite," />
 
 ## 📫 Connect with me
 
