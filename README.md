@@ -1,9 +1,11 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/ichega/ichega/photo_2025-10-24_16-47-45.jpg" alt="Roman Yatsevyuk" width="200" style="border-radius: 50%;" />
+
 # Hello, I'm Roman Yatsevyuk 👋
 ### Mobile Developer
 
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,java,dart,sqlite," />
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,java,dart,sqlite" />
 
 ## 📫 Connect with me
 
