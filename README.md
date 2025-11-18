@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ichega/Ichega/refs/heads/main/photo.jpg"  width="100%" style="border-radius: 50%;" />
 
 # Hello, I'm Roman Yatsevyuk 👋
 ### Mobile Developer
