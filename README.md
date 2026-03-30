@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/yourpixelbanner.gif">
+<img src="https://github.com/Ichega/Ichega/blob/main/photo.jpg">
 </p>
 
 <h1 align="center">Roman Yatsevyuk</h1>
